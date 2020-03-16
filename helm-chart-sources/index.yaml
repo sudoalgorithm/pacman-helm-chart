@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  pacman:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-16T16:11:42.063034+04:00"
+    description: A Helm chart for Kubernetes
+    digest: 1be03ddbcfb0538af229bdd2ce484df803457e68210596d854f9d289b4cb1d9f
+    name: pacman
+    urls:
+    - https://github.com/sudoalgorithm/pacman-helm-chart/pacman-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-16T16:11:42.062071+04:00"
